@@ -23,7 +23,7 @@ MIT
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Contribution
-Rob Stowe
+Rob Stowe, Josshy Olea
 
 ## Testing
 Not Applicable 
@@ -33,3 +33,7 @@ Not Applicable
 Questions can be directed to robstowe94@gmail.com
 
 https://github.com/robstowe
+
+## Screenshot
+![PWA-TXT-Editor-Screenshot](https://github.com/robstowe/PWA_Text_editor/assets/131800636/ed581566-df35-49fe-8421-7892d748cf9a)
+
